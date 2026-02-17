@@ -55,4 +55,4 @@ O projeto foi desenvolvido em linguagem **R** utilizando as seguintes biblioteca
 * `referencias.bib`: Arquivo de bibliografia das citações acadêmicas.
 
 ---
-*Projeto realizado como parte da Atividade 03 da disciplina de Métodos de Regressão.*
+*Projeto realizado como parte da Atividade 03 da disciplina de Métodos de Supervisionados.*
